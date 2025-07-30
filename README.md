@@ -16,7 +16,7 @@ A secure and responsive **To-Do List Web Application** built using **PHP**, **My
   - 🔐 **Forgot Password** and **Reset Password**
   - 🧠 Session-based Authentication for secured access
 
-- ✅ **Task Management**
+✅ **Task Management**
   - ➕ Add New Tasks
   - 📝 Edit Task Details
   - ✅ Mark tasks as **Completed** or **Pending**
@@ -24,7 +24,7 @@ A secure and responsive **To-Do List Web Application** built using **PHP**, **My
   - 📅 Set Task Due Dates *(optional)*
   - 🎨 Responsive UI with **Bootstrap 5**
 
-- 🎨 **Clean UI & UX**
+🎨 **Clean UI & UX**
   - Responsive layout with **Bootstrap 5**
   - Dark theme with a modern, elegant interface
 
