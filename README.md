@@ -47,6 +47,7 @@ A secure and responsive **To-Do List Web Application** built using **PHP**, **My
 
 ## 📁 Project Structure
 
+```bash
 - todo-list-app/
 --├── addTask.php
 --├── app.php
@@ -68,7 +69,7 @@ A secure and responsive **To-Do List Web Application** built using **PHP**, **My
 --├── todo.sql
 --└── todo_db.sql
 
-
+```
 ---
 
 ## 🚀 Getting Started
